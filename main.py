@@ -248,16 +248,15 @@
 #
 # 9
 # Then, the output should be:
-#
 # 11106
 
-y = input("enter the number: ")
-x = int(input("enter the range: "))
-total = 0
-temp = str()
-
-for i in range(x):
-    print("i", i)
-    temp += y
-    total += int(temp)
-    print(total)
+# y = input("enter the number: ")
+# x = int(input("enter the range: "))
+# total = 0
+# temp = str()
+#
+# for i in range(x):
+#     print("i", i)
+#     temp += y
+#     total += int(temp)
+#     print(total)
